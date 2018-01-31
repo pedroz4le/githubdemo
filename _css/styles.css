@@ -1,0 +1,12 @@
+/*base styles*/
+html{
+	font-family: sans-serif;
+}
+
+/*layouts*/
+.container{
+	margin: 0 auto;
+	max-width: 800px;
+}
+
+/*type styles*/
